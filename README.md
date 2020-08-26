@@ -19,7 +19,7 @@ Build the recipes contains in the const data page 141
         Star
         StarRating
 
-## (Pending)  Apply the concepts showed at 2020-08-25in class
+## (Pending)  Apply the concepts showed at 2020-08-25 in class
     useEffect: managing the data how a external resource
     Define the datalike json file.
     install json-server   and   axios
